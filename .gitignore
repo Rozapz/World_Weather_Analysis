@@ -1,3 +1,11 @@
+# Adding config.py file.
+config.py
+
+#adding additional files
+Vacation_Itinerary.ipynb
+Vacation_Search.ipynb
+Weather_Database.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
