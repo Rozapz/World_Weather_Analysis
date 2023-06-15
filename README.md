@@ -10,8 +10,8 @@ Customer weather preferences are retrieved using the input method. Those prefere
 ![World map and possible destinations](/Vacation_Search/WeatherPy_vacation_map.PNG)
 
 ## Vacation Iternity
-Customers chose to go to south Africa for their trip. The Geoapify Routing API is used to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, a map is created with a pop-up marker for each city on the itinerary as shown below:
+Customers chose to go to South Africa for their trip. The Geoapify Routing API is used to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, a map is created with a pop-up marker for each city on the itinerary as shown below:
 
 ![Customer Rout in South Africa](/Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
-FYI, ZA is an abbreviation of the Dutch name for the South africa country: Zuid-Afrika.
+FYI, ZA is an abbreviation of the Dutch name for the South African country: Zuid-Afrika.
