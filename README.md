@@ -5,7 +5,7 @@ preferred travel criteria to find the ideal hotel
 A set of 2,000 random latitudes and longitudes are generated and the nearest city is retrieved by performing an API call with OpenWeatherMap. The city weather data is gathered and the current weather description for each city is saved. 
 
 ## Vacation Search
-Customer weather preferences are retrieved using the input method. Those preferences are used to identify potential travel destinations and nearby hotels. Those destinations is saved on a map and is shown below:
+Customer weather preferences are retrieved using the input method. Those preferences are used to identify potential travel destinations and nearby hotels. Those destinations are saved on a map and are shown below:
 
 ![World map and possible destinations](/Vacation_Search/WeatherPy_vacation_map.PNG)
 
