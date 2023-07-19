@@ -1,5 +1,5 @@
 # World Weather Analysis
-preferred travel criteria to find the ideal hotel
+In this study, we are trying to find the ideal hotel/ vacation based on preferred travel criteria. 
 
 ## Generating Weather Database
 A set of 2,000 random latitudes and longitudes are generated and the nearest city is retrieved by performing an API call with OpenWeatherMap. The city weather data is gathered and the current weather description for each city is saved. 
