@@ -14,4 +14,6 @@ Customers chose to go to South Africa for their trip. The Geoapify Routing API i
 
 ![Customer Rout in South Africa](/Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
-FYI, ZA is an abbreviation of the Dutch name for the South African country: Zuid-Afrika.
+FYI, ZA is an abbreviation of the Dutch name for the South African country: Zuid-Afrika, interesting!.
+
+
